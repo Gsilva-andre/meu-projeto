@@ -1,6 +1,6 @@
-../*
-git add .gitignore
-git commit -m "Adicione gitignore para evitar arquivos externos"
-nano .gitignore
-../*
+*
+!/app.txt
+!/index.html
+!/.gitignore
+
 
